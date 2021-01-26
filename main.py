@@ -44,4 +44,4 @@ async def on_message(message):
 async def on_reaction_add(reaction, user):
     await reaction.message.channel.send('comprado')
 
-client.run('ODAzMDMzMDg4NTg1ODkxODkw.YA341w.xXTenPsfNTPxxCRvr5cCXyVUkV0')
+client.run('token')
