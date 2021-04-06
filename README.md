@@ -3,5 +3,5 @@ A discord bot used to buy and sell items within minecraft on different servers.
 
 Our team:
 
-Main Developer: jisus17#2979   
+Main Developer: 2y#4548   
 Technical Director: Prometeo#0210
